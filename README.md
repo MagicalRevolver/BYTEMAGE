@@ -1,3 +1,1 @@
-# BYTEMAGE 
-# HACKER
-# SITE
+personal site
